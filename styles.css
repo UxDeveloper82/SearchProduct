@@ -41,7 +41,7 @@ section{
 /* Banner Area */
 
 .site-main .site-banner {
-    background: url('../images/banner.jpg') no-repeat;
+    background: url('images/banner.jpg') no-repeat;
     background-position: center center;
   
     background-size: cover;
